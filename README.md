@@ -12,6 +12,6 @@ https://snowly.org/
 
 ## License
 
-NO License
+No License
 
 ## Just A Simple Code
